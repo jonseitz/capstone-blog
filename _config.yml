@@ -17,8 +17,8 @@ title: Jonathan Seitz Capstone
 email: seitz.jon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     This is the weekly blog for DGMD S-598 at the Harvard Extension School.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "capstone-blog" # the subpath of your site, e.g. /blog
+url: "https://jonseitz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jonseitz
 
 # Build settings
