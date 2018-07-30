@@ -11,5 +11,5 @@ One thing I've been debating is how much prototyping I should do of the User Int
 
 I appreciate any feedback and suggestions.
 
-[draft]: /capstone-blog/draft-proposal/
+[draft]: /capstone-blog/draft-proposal.html
 [lcad]: https://librecad.org/
