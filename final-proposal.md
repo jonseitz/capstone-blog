@@ -220,7 +220,7 @@ The user documentation and any additional training materials will be created wit
 
 ## 4.0 Design Workflow
 
-I want the app's interface to be simple and easy to navigate on a variety of devices. To accomplish that, I'm going to focus on two main interface modes: Map Mode, and List Mode.
+I want the app's interface to be simple and easy to navigate on a variety of devices. To accomplish that, I'm going to focus on two main interface modes: Map Mode, and List Mode. I do plan to start with with simple HTML mock-ups, or even pen and ink drawings, of the interface that I can use for informal testing before moving on to the true coding phase of development. I will probably start with a few of my co-workers as testers, and eventually bring in some real users within SEAS for more formalized testing in small groups (6-10 people). Toward the end of the project, I will consult the User Research Center about more in-depth accessibility training.
 
 ### Map Mode
 
