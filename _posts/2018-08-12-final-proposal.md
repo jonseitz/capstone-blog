@@ -1,5 +1,5 @@
 ---
-title: final Proposal
+title: Final Proposal
 template: post
 ---
 
